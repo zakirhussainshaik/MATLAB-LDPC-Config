@@ -2,6 +2,8 @@
 % the format supported by ldpcEncode() and ldpcDecode() functions of
 % MATLAB (supported from 2021b)
 
+https://se.mathworks.com/matlabcentral/fileexchange/103360-matlab-ldpc-config
+
 % This function is intended for those who wants to use LDPC coding function without having to worry about
 % parity check matrices and details. Currently LDPC codes from WLAN standard are supported in this function.
 
@@ -9,6 +11,7 @@
 % Contact: zakir.b2a@gmail.com
 
 % This function is version 1.0
+% License: This code is licensed under the GPLv2 license.
 
 % This function outputs two outputs
 % First output : cfgLDPCEnc
