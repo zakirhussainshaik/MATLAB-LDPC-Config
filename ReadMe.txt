@@ -42,8 +42,8 @@ https://se.mathworks.com/matlabcentral/fileexchange/103360-matlab-ldpc-config
 % Following syntaxes are supported:
 
 % Example 1:
-% rate = 1/2;
-% [cfgLDPCEnc,decodercfg] = generateConfigLDPC(rate,'decoderAlgo','bp');
+rate = 1/2;
+[cfgLDPCEnc,decodercfg] = generateConfigLDPC(rate,'decoderAlgo','bp');
 
 % Example 2:
 rate = 1/2;
