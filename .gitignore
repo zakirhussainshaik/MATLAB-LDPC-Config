@@ -1,0 +1,11 @@
+*.run.xml
+*.m~
+.DS_store
+*.auxlock
+*.log
+*.synctex.gz
+*.aux
+*.thm
+*.bbl
+*.pdf
+*.blg
