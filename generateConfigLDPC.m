@@ -50,7 +50,7 @@ validateRate= @(x) assert((x > 0) && (x <= 1),errorMsgRate);
 
 addRequired(parsVar,'rate',validateRate);
 
-errorMsgCWL = 'Value must be positive and less than 1'; 
+errorMsgCWL = 'Value must be nonnegative'; 
 validateCW= @(x) assert((x > 0),errorMsgCWL);
 addOptional(parsVar,'codewordLen',defaultCodewordLen,validateCW);
 

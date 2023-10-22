@@ -32,7 +32,7 @@ https://se.mathworks.com/matlabcentral/fileexchange/103360-matlab-ldpc-config
 
 % Default values: standard is 'wlan', code word length is 648, decoder algorithm is 'bp'
 
-% Supported stanadard: 'wlan'
+% Supported standard: 'wlan'
 % Supported rates: 1/2, 2/3, 3/4, and 5/6
 % Supported codeword lengths: 648, 1296, and 1944
 % decoderAlgo takes four algorithms as stated in MATLAB site: {'bp','layered-bp','norm-min-sum','offset-min-sum'}
